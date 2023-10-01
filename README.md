@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
+
 <!--
 **JM1F/JM1F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
