@@ -74,11 +74,11 @@
 
 <h2>📊 Statistics</h2>
 
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JM1F&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JM1F&theme=gotham&show_icons=true" alt="Stats"/>
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=JM1F&show_icons=true&theme=gotham"/>
 </p>
 
-<p align="center"><img  width="30%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shamimsikder&theme=gotham"/>
+<p align="center"><img  width="30%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=JM1F&theme=gotham"/>
 
 <h2>🏆 GitHub Trophies</h2>
 
