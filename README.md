@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- Header Text --> 
-<h1 align="center">Hi There 👋</h1>
+<h1 align="center">Hello There 👋</h1>
 
 <div align="center">
   <!--- Snake GIF -->
