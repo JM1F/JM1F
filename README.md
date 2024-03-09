@@ -5,7 +5,7 @@
 
 <div align="center">
   <!--- Snake GIF -->
-  <img  src=""
+  <img  src="https://github.com/JM1F/JM1F/blob/main/github-contribution-grid-snake.svg"
        alt="snake" /></a>
   
   ![GitHub followers](https://img.shields.io/github/followers/JM1F?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JM1F?style=social) <img src="https://komarev.com/ghpvc/?username=JM1F" alt="Followers" />
