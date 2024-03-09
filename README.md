@@ -5,7 +5,7 @@
 
 <div align="center">
   <!--- Snake GIF -->
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src=""
        alt="snake" /></a>
   
   ![GitHub followers](https://img.shields.io/github/followers/JM1F?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JM1F?style=social) <img src="https://komarev.com/ghpvc/?username=JM1F" alt="Followers" />
@@ -16,8 +16,13 @@
   <li>📚 Currently Studying BSc (Hons) Software Engineering.</li>
   <li>🏦 Working as an Associate Software Engineer.</li>
   <li>🌱 I Have Many Ongoing Side Projects.</li>
-  <li>👨🏽‍💻 Currently growing my skillset.</li>
-  <li>💼 I Have Other Interests in: Artificial Intelligence, Machine Learning, Deep Learning, Cryptography, Cryptocurrency, Cyber Security.</li>
+  <li>👨🏽‍💻 Currently Growing my Skillset.</li>
+  <li>💼 I Have Other Interests in:
+    <ul> Artificial Intelligence </ul>
+    <ul> Machine Learning </ul>
+    <ul> Deep Learning </ul>
+    <ul> Cryptography, Cryptocurrency, Blockchain </ul>
+    <ul> Cyber Security </ul>
 </ul>
 
 <div><img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/></div>
