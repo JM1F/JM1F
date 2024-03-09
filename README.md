@@ -18,11 +18,13 @@
   <li>🌱 I Have Many Ongoing Side Projects.</li>
   <li>👨🏽‍💻 Currently Growing my Skillset.</li>
   <li>💼 I Have Other Interests in:
-    <ul> Artificial Intelligence </ul>
-    <ul> Machine Learning </ul>
-    <ul> Deep Learning </ul>
-    <ul> Cryptography, Cryptocurrency, Blockchain </ul>
-    <ul> Cyber Security </ul>
+    <ul>
+    <li> Artificial Intelligence </li>
+    <li> Machine Learning </li>
+    <li> Deep Learning </li>
+    <li> Cryptography, Cryptocurrency, Blockchain </li>
+    <li> Cyber Security </li>
+  </ul> 
 </ul>
 
 <div><img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/></div>
