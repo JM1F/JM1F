@@ -13,8 +13,8 @@
 
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>📚 Currently Studying BSc (Hons) Software Engineering.</li>
-  <li>🏦 Working as an Associate Software Engineer.</li>
+  <li>📚 BSc (Hons) Software Engineering.</li>
+  <li>🏦 Working as a Software Engineer.</li>
   <li>🌱 I Have Many Ongoing Side Projects.</li>
   <li>👨🏽‍💻 Currently Growing my Skillset.</li>
   <li>💼 I Have Other Interests in:
@@ -27,19 +27,21 @@
   </ul> 
 </ul>
 
+<br/>
+
 <div><img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/></div>
 
 <br/>
 <br/>
 <br/>
 
-<h2 align="center">💬 Contact Me</h2>
+<p align="center">💬 Contact Me</h2>
 <p align="center"><a href="https://dev.to/jm1f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="60" width="80" /></a>
 <a href="https://www.linkedin.com/in/joe-moore-43755b217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIN" height="60" width="80" /></a>
 <a href="https://stackoverflow.com/users/22686070/jm1f-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="60" width="80" /></a>
 <a href="mailto:joe7business@gmail.com" target="blank"><img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="GMail" height="45" width="60" /></a></p>
 
-
+<br>
 
 <h2>🛠️ Skills</h2>
 
